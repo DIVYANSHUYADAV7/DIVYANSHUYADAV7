@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DivyanshuPurbey&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DivyanshuPurbey?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=DIVYANSHUYADAV7&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DIVYANSHUYADAV7?label=Follow&style=social" alt="GitHub Followers" />
 </p>
 
 ---
