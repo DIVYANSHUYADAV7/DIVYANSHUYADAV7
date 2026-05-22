@@ -1,4 +1,4 @@
-@@ -0,0 +1,60 @@
+
 <h1 align="center">Hi there, I'm Divyanshu Yadav 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Lifelong+Learner;Pythonista&font=Fira%20Code&center=true&width=440&height=45&color=00ADB5&vCenter=true&pause=1000&size=22" />
@@ -47,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyanshuPurbey&show_icons=true&theme=radical&hide_border=true" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuPurbey&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyanshuYadav7&show_icons=true&theme=radical&hide_border=true" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuYaddav7&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
