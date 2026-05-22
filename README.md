@@ -47,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyanshuYadav7&show_icons=true&theme=radical&hide_border=true" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuYaddav7&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DIVYANSHUYADAV7&show_icons=true&theme=radical&hide_border=true" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIVYANSHUYADAV7&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
