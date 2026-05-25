@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Divyanshu Yadav 👋</h1>
+<h1 align="center">Hi there, I'm Heeru Yadav 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Lifelong+Learner;Pythonista&font=Fira%20Code&center=true&width=440&height=45&color=00ADB5&vCenter=true&pause=1000&size=22" />
 </p>
